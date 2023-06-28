@@ -1,5 +1,4 @@
 // Write your solution here!
-
 const cats = ["Milo", "Otis", "Garfield"];
 cats;
 
@@ -32,4 +31,5 @@ function removeLastCat() {
 
 function removeFirstCat() {
     return cats.slice(1);
+}
 }
